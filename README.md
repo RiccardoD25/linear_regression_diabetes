@@ -1,1 +1,1 @@
-# inear_regression_diabetes
+# linear_regression_diabetes
